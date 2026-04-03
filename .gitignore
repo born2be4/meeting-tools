@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+tokens.json
+state.json
+notes/
+pending_iris/
+*.session
+*.session-journal
+.DS_Store
